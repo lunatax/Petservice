@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PetService</string>
+    <string name="espanol">ESPAÑOL ES</string>
+    <string name="ingles">INGLES EN</string>
+    <string name="perro">PERRO</string>
+    <string name="gato">GATO</string>
+    <string name="vacuna">VACUNA</string>
+    <string name="desparacitacion">DESPARACITACIÓN</string>
+    <string name="antipulgas">ANTIPULGAS</string>
+    <string name="aseo">ASEO</string>
+    <string name="consulta">CONSULTA MEDICA</string>
+
+    <!--vacunas-->
+    <string name="puppy">Puppy</string>
+    <string name="canigen">Canigen MHA2PPi</string>
+    <string name="traque">Traqueobronquitis</string>
+    <string name="felingen">Felingen C.R.P</string>
+    <string name="rabia">Rabia</string>
+    <!--Aseo-->
+    <string name="peso">Peso en kilogramos</string>
+    <string name="hasta5">Hasta 5kg</string>
+    <string name="hasta10">Hasta 10kg</string>
+    <string name="hasta15">Hasta 15kg</string>
+    <string name="hasta20">Hasta 20kg</string>
+    <string name="hasta25">Hasta 25kg</string>
+    <string name="hasta30">Hasta 30kg</string>
+    <string name="mas30">Mas de 30kg</string>
+
+    <!--meses-->
+    <string name="unmes">Un mes</string>
+    <string name="tresmeses">Tres Meses</string>
+
+    <!--consulta-->
+    <string name="cons_tit">Consulta</string>
+    <string name="cons_des">Descripcion del servicio de atencion a domicilio para mascotas desde la aplicacion petservice</string>
+
+</resources>
