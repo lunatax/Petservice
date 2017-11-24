@@ -50,7 +50,7 @@ public class Vacunas extends AppCompatActivity {
             //new Item (R.drawable.ic_addcart,getString(R.string.canigen),"Descripcion",11),
             //new Item (R.drawable.ic_addcart,getString(R.string.traque),"Descripcion",13),
             //new Item (R.drawable.ic_addcart,getString(R.string.felingen),"Descripcion",15),
-            //new Item (R.drawable.ic_addcart,getString(R.string.rabia),"Descripcion",14)
+            //new Item (R.drawable.ic_addcart,getString(R.string.rabia),"Descripcion descripcion desfdfdfdfdfdf",14)
         };
         for(Integer i =0; i< item_data.length; i++){
             lt_data.add(item_data[i]);
